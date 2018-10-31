@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['ci-cloud-django-blog-markwilde33.c9users.io',
-'ci-cloud-django-blog-test-app.heroku.com']
+'ci-cloud-django-blog-test-app.herokuapp.com']
 
 
 # Application definition
